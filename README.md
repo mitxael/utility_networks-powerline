@@ -1,17 +1,16 @@
     ***************************************************************************************
-    * Abstract:   Network ping-pong with support for Windows/Linux/MacOS
-    * Uses:       This library has been compiled with C11.
+    * Abstract:   Communication protocol for Utility networks
+    * Uses:       This project has been modelled using VisualParadigm 14.2
     * Author:     Michael Vasquez Otazu
     * Email:      mitxael@hotmail.it
     * History:    V1.0 - First release
     * Description:
-    *             - Ping pong game for multiple players across a network
-    *             - Support for Windows, Linux and MacOS
-    *             - Client/Server architecture
-    *             - Educational use of Sockets, Json messages, Regex, etc.
+    *             - Software Requirement Specifications
+    *             - Gellish dictionary
+    *             - UML use case, class diagram, object diagram, sequence diagram
     ********************************* START LICENSE BLOCK *********************************
     * The MIT License (MIT)
-    * Copyright (C) 2016 Michael Vasquez Otazu
+    * Copyright (C) 2017 Michael Vasquez Otazu
     *
     * Permission is hereby granted, free of charge, to any person obtaining a copy of this 
     * software and associated documentation files (the "Software"), to deal in the Software 
