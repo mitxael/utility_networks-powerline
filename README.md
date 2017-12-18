@@ -1,3 +1,7 @@
+<p align="left">
+<img width="60%" height="60%" src="https://www.loxone.com/enus/wp-content/uploads/sites/13/2016/12/IG_3d-house-everything-managed@2x-1.jpg">
+</p>
+
     ***************************************************************************************
     * Abstract:   Communication protocol for Utility networks
     * Uses:       This project has been modelled using VisualParadigm 14.2
